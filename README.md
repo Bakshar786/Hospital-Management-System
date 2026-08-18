@@ -1,4 +1,45 @@
-# 🏥 CareAxis Hospital Management System
+🏥 CareAxis Hospital Management System
+
+Screenshots -
+
+1.Home Page -
+
+<img width="1361" height="717" alt="HomePage" src="https://github.com/user-attachments/assets/742877f0-7971-4554-a9ea-d09b5ee9f8e0" />
+
+
+
+2.Login Page - 
+
+<img width="1365" height="722" alt="Login Page" src="https://github.com/user-attachments/assets/971dd4fb-d13f-4c06-9f52-1e8655f7d43f" />
+
+
+
+3.Dashboard -
+
+<img width="1365" height="712" alt="Dashboard" src="https://github.com/user-attachments/assets/27e2324f-3607-4108-adc9-22e29bedf245" />
+
+
+
+4.Patient Management -
+
+<img width="1362" height="718" alt="Patent Management" src="https://github.com/user-attachments/assets/51a5bd05-a66e-464b-866f-a3fb49daf04f" />
+
+
+
+5.Appointments -
+
+<img width="1365" height="719" alt="Appointments" src="https://github.com/user-attachments/assets/ceb5eda5-bb60-406b-a1af-a71ca6df7f02" />
+
+
+6.Bed Managements -
+
+<img width="1365" height="715" alt="Bed Management" src="https://github.com/user-attachments/assets/fcb6a315-7ce5-47ba-bd0f-f12eccd3e606" />
+
+
+7.Revenue Overview -
+
+<img width="1096" height="602" alt="Revenue Overview" src="https://github.com/user-attachments/assets/cd7c9c78-d7c3-49e8-8814-9bd86ac7dcad" />
+
 
 An AI-powered Hospital Management System built using Spring Boot.
 
