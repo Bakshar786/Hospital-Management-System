@@ -1,0 +1,11 @@
+com\smartcoms\hms\config\DataInitializer.class
+com\smartcoms\hms\repository\AppointmentRepository.class
+com\smartcoms\hms\controller\PublicController.class
+com\smartcoms\hms\repository\BedRepository.class
+com\smartcoms\hms\repository\PatientRepository.class
+com\smartcoms\hms\config\SecurityConfig.class
+com\smartcoms\hms\entity\Appointment.class
+com\smartcoms\hms\HospitalApplication.class
+com\smartcoms\hms\controller\DashboardController.class
+com\smartcoms\hms\entity\Patient.class
+com\smartcoms\hms\entity\Bed.class

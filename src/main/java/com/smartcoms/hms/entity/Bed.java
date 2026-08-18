@@ -1,0 +1,3 @@
+package com.smartcoms.hms.entity;
+import jakarta.persistence.*;
+@Entity public class Bed { @Id @GeneratedValue(strategy=GenerationType.IDENTITY) private Long id; @Column(unique=true) private String bedNumber; private String ward; private String category; private String status="Available"; public Long getId(){return id;} public String getBedNumber(){return bedNumber;} public void setBedNumber(String v){bedNumber=v;} public String getWard(){return ward;} public void setWard(String v){ward=v;} public String getCategory(){return category;} public void setCategory(String v){category=v;} public String getStatus(){return status;} public void setStatus(String v){status=v;} }

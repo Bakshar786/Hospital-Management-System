@@ -1,0 +1,11 @@
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\config\DataInitializer.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\config\SecurityConfig.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\controller\DashboardController.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\controller\PublicController.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\entity\Appointment.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\entity\Bed.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\entity\Patient.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\HospitalApplication.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\repository\AppointmentRepository.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\repository\BedRepository.java
+C:\Users\SmartComs\Documents\ChatGPT\Hospital Management System\src\main\java\com\smartcoms\hms\repository\PatientRepository.java
